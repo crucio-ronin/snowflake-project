@@ -1,0 +1,1 @@
+CREATE DATABASE IF NOT EXISTS SPARCS_DEV COMMENT = 'SPARCS Hospital Inpatient Discharge Data Engineering Project';
